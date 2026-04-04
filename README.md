@@ -21,7 +21,7 @@ I enjoy working with data to uncover insights and create meaningful dashboards t
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website] 
-https://github.com/anjalidalvi1234/anjalidalvi.github.io
+https://anjalidalvi1234.github.io/anjalidalvi.github.io/
       
 ## 🔭 What I'm Currently Working On 
 
