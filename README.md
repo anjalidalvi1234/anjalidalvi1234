@@ -24,14 +24,17 @@ I enjoy working with data to uncover insights and create meaningful dashboards t
       
 ## 🔭 What I'm Currently Working On 
 
-- **AQI Analysis | Data Visualization using Power BI:** [Power BI dashboard analyzing air quality data to identify pollution trends and generate insights.]
-- **Sales Performance Analysis | Power BI Dashboard (Blinkit):** [Power BI dashboard showcasing sales trends, customer insights, and business performance analysis.]
+- **AQI Analysis | Data Visualization using Power BI:** Power BI dashboard analyzing air quality data to identify pollution trends and generate insights.
+- **Sales Performance Analysis | Power BI Dashboard (Blinkit):** Power BI dashboard showcasing sales trends, customer insights, and business performance analysis.
   
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- 🌱 Learning. Building. Growing.
 
+- Python 🐍 (Data Analysis)
+- Power BI 📊 (Dashboards)
+- SQL 🗄️ (Data Handling)
+- Excel 📈 (Advanced Functions)
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -53,8 +56,8 @@ I enjoy working with data to uncover insights and create meaningful dashboards t
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Beginner-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
