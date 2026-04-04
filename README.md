@@ -8,27 +8,25 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.linkedin.com/in/anjali-dalvi-a8800a391"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <!--a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a-->
   <a href="mailto:anjalidalvi1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a passionate Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I have completed my degree in Computer Science and further enhanced my skills through certifications in Data Science & Artificial Intelligence.
+I enjoy working with data to uncover insights and create meaningful dashboards that help in better decision-making. I have hands-on experience in tools like Power BI, Excel, SQL, and basic knowledge of Python.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+💡I am continuously learning and improving my skills to stay updated with the latest tools and technologies in data analytics.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/anjalidalvi1234/anjalidalvi.github.io)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
+- **AQI Analysis | Data Visualization using Power BI:** [Power BI dashboard analyzing air quality data to identify pollution trends and generate insights.]
+- **Sales Performance Analysis | Power BI Dashboard (Blinkit):** [Power BI dashboard showcasing sales trends, customer insights, and business performance analysis.]
+  
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
