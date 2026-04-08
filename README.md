@@ -9,7 +9,8 @@
 <br>
 
 <p>
-I’m someone who enjoys exploring data and finding stories hidden within it 
+I’m someone who enjoys exploring data and finding stories hidden within it. 
+ 
 I'm a passionate Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I have completed my degree in Computer Science and further enhanced my skills through certifications in Data Science & Artificial Intelligence.
 I enjoy working with data to uncover insights and create meaningful dashboards that help in better decision-making. I have hands-on experience in tools like Power BI, Excel, SQL, and basic knowledge of Python.
 </p>
