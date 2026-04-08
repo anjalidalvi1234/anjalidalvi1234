@@ -5,7 +5,7 @@
 <h3><b>ANJALI DALVI</b></h3>
 <p><b>DATA ANALYST | POWER BI DEVELOPER</b></p>
 
-<p>anjalidalvi1234@gmail.com | GITHUB @yourusername</p>
+<p>anjalidalvi1234@gmail.com | GITHUB @anjalidalvi1234</p>
 
 <br>
 
