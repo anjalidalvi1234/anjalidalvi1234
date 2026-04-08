@@ -32,7 +32,7 @@ Data Analysis • Problem Solving • Dashboard Creation
 
 <br>
 
-<h3>🚀 Projects</h3>
+<h3>🚀 Portfolio</h3>
 
 <p>
 Check out my Github Portfolio: 
