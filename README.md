@@ -4,16 +4,14 @@
 
 <h3><b>ANJALI DALVI</b></h3>
 <p><b>DATA ANALYST | POWER BI DEVELOPER</b></p>
-
 <p>anjalidalvi1234@gmail.com | GITHUB @anjalidalvi1234</p>
 
 <br>
 
 <p>
 I’m someone who enjoys exploring data and finding stories hidden within it 
-As an aspiring Data Analyst, I work with SQL, Python, and Power BI to create meaningful insights.  
-
-I’m currently learning, building projects, and continuously improving my skills to grow in this field.
+I'm a passionate Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I have completed my degree in Computer Science and further enhanced my skills through certifications in Data Science & Artificial Intelligence.
+I enjoy working with data to uncover insights and create meaningful dashboards that help in better decision-making. I have hands-on experience in tools like Power BI, Excel, SQL, and basic knowledge of Python.
 </p>
 
 
