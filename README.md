@@ -47,5 +47,5 @@ Check out my Project Portfolio:
 <h3>🤝 Let's Connect</h3>
 
 <p>
-<a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anjali-dalvi-a8800a391/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/anjali-dalvi-a8800a391/">LinkedIn</a>
 </p>
