@@ -38,8 +38,8 @@ Data Analysis • Problem Solving • Dashboard Creation
 <h3>🚀 Projects</h3>
 
 <p>
-Check out my Project Portfolio: 
-<a href="https://github.com/yourusername">My Projects</a>
+Check out my Github Portfolio: 
+<a href="https://anjalidalvi1234.github.io/anjalidalvi.github.io/">My Portfolio</a>
 </p>
 
 <br>
