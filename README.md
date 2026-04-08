@@ -1,16 +1,14 @@
-[13:48, 8/4/2026] Anjuu💜🦋: <!-- Portfolio Banner Image -->
+ <!-- Portfolio Banner Image -->
 <img src="PASTE_YOUR_CANVA_IMAGE_LINK_HERE" alt="portfolio banner" />
 
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI</h3>
+<h3 align="center">Data Analyst | Power BI</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🔭 I’m currently working on Data Analysis Projects  
-- 🌱 I’m learning Advanced SQL & Power BI  
-- 💬 Ask me about Data Analysis, Dashboards  
-- 📫 Reach me at: yourmail@gmail.com  
+Hi, I’m Anjali 👋
+I'm a passionate Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I have completed my degree in Computer Science and further enhanced my skills through certifications in Data Science & Artificial Intelligence.
 
 ---
 
@@ -38,14 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
----
 
 ## 🌐 Let's Connect
 
