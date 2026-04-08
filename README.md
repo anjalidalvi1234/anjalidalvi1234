@@ -1,48 +1,51 @@
- <!-- Portfolio Banner Image -->
-<img src="PASTE_YOUR_CANVA_IMAGE_LINK_HERE" alt="portfolio banner" />
+ <h2>Hi there 👋 Introducing myself,</h2>
 
-<h1 align="center">Hi 👋, I'm Anjali</h1>
-<h3 align="center">Data Analyst | Power BI</h3>
+<br>
 
----
+<h3><b>ANJALI DALVI</b></h3>
+<p><b>DATA ANALYST | POWER BI DEVELOPER</b></p>
 
-## 👩‍💻 About Me
-Hi, I’m Anjali 👋
-I'm a passionate Data Analyst with a strong foundation in data analysis, visualization, and problem-solving. I have completed my degree in Computer Science and further enhanced my skills through certifications in Data Science & Artificial Intelligence.
+<p>anjalidalvi1234@gmail.com | GITHUB @yourusername</p>
 
----
+<br>
 
-## 🛠️ Skills
+<p>
+I’m someone who enjoys exploring data and finding stories hidden within it 
+As an aspiring Data Analyst, I work with SQL, Python, and Power BI to create meaningful insights.  
 
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel"/>
+I’m currently learning, building projects, and continuously improving my skills to grow in this field.
 </p>
 
----
 
-## 🚀 Projects
+<br>
 
-🔹 *Sales Dashboard (Power BI)*  
-👉 https://github.com/yourusername/project1  
+<h3>⚙️ Skills</h3>
 
-🔹 *Data Cleaning using Python*  
-👉 https://github.com/yourusername/project2  
+💻 *Data Handling*  
+SQL • Excel • Data Cleaning  
 
-🔹 *SQL Data Analysis Project*  
-👉 https://github.com/yourusername/project3  
+📊 *Data Analysis & Visualization*  
+Python • Power BI • Tableau  
 
----
+🗄️ *Databases*  
+MySQL • PostgreSQL  
 
+🧠 *Core Strengths*  
+Data Analysis • Problem Solving • Dashboard Creation
 
+<br>
 
-## 🌐 Let's Connect
+<h3>🚀 Projects</h3>
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 📧 Email: yourmail@gmail.com  
+<p>
+Check out my Project Portfolio: 
+<a href="https://github.com/yourusername">My Projects</a>
+</p>
 
----
+<br>
 
-⭐ Thanks for visiting my profile!
+<h3>🤝 Let's Connect</h3>
+
+<p>
+<a href="https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anjali-dalvi-a8800a391/">LinkedIn</a>
+</p>
